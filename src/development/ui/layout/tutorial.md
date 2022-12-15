@@ -485,11 +485,11 @@ leaving only the image. Add the image file to the example:
 
 {{site.alert.info}}
 
-  Note that `wget` doesn't work for saving this binary file.
+  Note that `widget` doesn't work for saving this binary file.
   The original image is [available online][] under a
   Creative Commons license, but it's large and slow to fetch.
   
-  注意 `wget` 不能保存二进制文件。
+  注意 `widget` 不能保存二进制文件。
   原始的图片虽然可以在 Creative Commons 许可下 [在线获取][available online]，
   但是文件较大，下载缓慢。
   
